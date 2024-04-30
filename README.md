@@ -2,7 +2,7 @@
 
 🎛️  I’m currently working on touchosc scripting
 
-❄️  I’m currently learning creative coding  | processing | p5.js 
+❄️  I’m currently learning creative coding: processing | p5.js 
 
  
 <!--
