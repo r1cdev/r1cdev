@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🎛️  I’m currently working on touchosc scripting
+❄️  I’m currently learning p5.js creative coding
+ 
 <!--
 **murry61/murry61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
