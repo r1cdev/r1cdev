@@ -8,4 +8,4 @@
 ![LUA](https://img.shields.io/badge/-LUA-000?&logo=LUA)
 
 #### Platforms: 
-![TouchOSC](https://img.shields.io/badge/-TouchOSC-gray)
+![TouchOSC](https://img.shields.io/badge/-TouchOSC-gray)(https://hexler.net)
