@@ -1,21 +1,9 @@
 ### Hi there 👋
 
-🎛️  I’m currently working on touchosc scripting
+🎛️  I’m currently working on creative code for music 
 
-❄️  I’m currently learning creative coding: processing | p5.js 
+#### Languages: 
+![p5.js](https://img.shields.io/badge/-p5.js-000?&logo=p5.js)
+![Processing](https://img.shields.io/badge/-Processing-000?&logo=Processing)
+![TouchOSC-LUA](https://img.shields.io/badge/-TouchOSC-LUA-000?&logo=LUA)
 
- 
-<!--
-**murry61/murry61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
