@@ -8,5 +8,5 @@
 ![LUA](https://img.shields.io/badge/-LUA-000?&logo=LUA)
 
 #### Platforms: 
-![Windows](https://img.shields.io/badge/-Windows-blue?&logo=Windows)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)
 ![TouchOSC](https://img.shields.io/badge/-TouchOSC-gray?&link=https://hexler.net/)
