@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎛️  I’m currently working on creative coding 
+🎛️  Working on creative coding 
 
 #### Languages: 
 ![p5.js](https://img.shields.io/badge/-p5.js-000?&logo=p5.js&link=https://p5js.org/)
