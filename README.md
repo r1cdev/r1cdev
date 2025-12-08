@@ -1,6 +1,17 @@
-### Hi there 👋
+Hi ! 👋
+<br><br>
 
-Doing creative coding 
+![Static Badge](https://img.shields.io/badge/AI:-gray)
+
+[![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![ChatGPT](https://img.shields.io/badge/OpenAI-74aa9c?logo=openai&logoColor=white)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
+
+<br>
+
+![Static Badge](https://img.shields.io/badge/Creative:-gray)
 
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 ![TouchOSC](https://img.shields.io/badge/-TouchOSC-white?&link=https://hexler.net/)
