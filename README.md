@@ -1,5 +1,3 @@
-Making creative code | Exploring AI... 👋
-<br><br>
 
 My creative code tools:  
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
