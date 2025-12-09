@@ -1,4 +1,4 @@
-Making creative code and exploring AI... 👋
+Making creative code | Exploring AI... 👋
 <br><br>
 
 My creative code tools:  
