@@ -1,5 +1,5 @@
 
-My creative code tools:  
+My creative coding tools:  
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 ![TouchOSC](https://img.shields.io/badge/-TouchOSC-white?&link=https://hexler.net/)
 ![Reaktor](https://img.shields.io/badge/Reaktor-gray?link=https%3A%2F%2Fwww.native-instruments.com%2Fen%2Fproducts%2Fkomplete%2Fsynths%2Freaktor-6%2F)
@@ -8,7 +8,7 @@ My creative code tools:
 ![p5.js](https://img.shields.io/badge/p5.js-gray?logo=p5.js&labelColor=A60000&link=https://p5js.org)
 <br><br>
 
-My AI exploration tools:  
+My AI exploration coding tools:  
 [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?logo=streamlit&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
