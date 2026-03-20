@@ -1,7 +1,7 @@
 
-Hi 👋 
+## Hi, I'm Ricardo👋 
 
-<br>  
+> Building AI Health CDSS prototypes and POCs for medical granted research 
 
 [![prototype]( https://img.shields.io/badge/🎇-prototype:%20%20-gray)](#)
 [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
@@ -20,6 +20,8 @@ Hi 👋
 
 [![cloud]( https://img.shields.io/badge/☁️-cloud:%20%20-gray)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+
+> Coding TouchOSC templates for virtual instruments 🎛️
 
 [![creative]( https://img.shields.io/badge/🎛️-creative:%20%20-gray)](#)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
