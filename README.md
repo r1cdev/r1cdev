@@ -5,7 +5,7 @@
 
 [![coding]( https://img.shields.io/badge/-</>:%20%20-black)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?logo=streamlit&logoColor=white)](#)
-[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Codex](https://custom-icon-badges.demolab.com/badge/Codex-333333?logo=openai&logoColor=white)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
  
