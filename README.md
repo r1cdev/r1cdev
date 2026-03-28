@@ -12,6 +12,7 @@
 
 #### Tools:
 - [![coding]( https://img.shields.io/badge/-</>%20%20-black)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?logo=streamlit&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Codex](https://custom-icon-badges.demolab.com/badge/Codex-333333?logo=openai&logoColor=white)](#)
