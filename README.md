@@ -2,7 +2,7 @@
 ## Hi, I'm Ricardo👋 
 
 #### AI Projects:
-- 🧑‍⚕️[A is for Airway – Life-Saving Airway Management Training Across Mexico](https://globalhealth.stanford.edu/programs/a-is-for-airway-life-saving-airway-management-training-across-mexico/) - AI enabled debriefing tool for airway training sessions. (ACRM and VORTEX)  
+- 🧑‍⚕️[A is for Airway](https://globalhealth.stanford.edu/programs/a-is-for-airway-life-saving-airway-management-training-across-mexico/) - AI enabled debriefing tool for airway training sessions. (ACRM and VORTEX)  
 
 
 #### Creative Projects:
