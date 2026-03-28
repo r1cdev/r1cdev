@@ -1,23 +1,30 @@
 
 ## Hi, I'm Ricardo👋 
 
-> Building AI Health CDSS prototypes and POCs 
+#### AI Projects:
+- 🧑‍⚕️[A is for Airway – Life-Saving Airway Management Training Across Mexico](https://globalhealth.stanford.edu/programs/a-is-for-airway-life-saving-airway-management-training-across-mexico/) - AI enabled debriefing tool for airway training sessions. (ACRM and VORTEX)  
 
-[![coding]( https://img.shields.io/badge/-</>:%20%20-black)](#)
+
+#### Creative Projects:
+- 🎛️[Reaktor 8 STEPS Sequencer](https://github.com/r1cdev/touchosc-reaktor-8steps)   
+- 🎛️[Reaktor ToyBox Tangle Pack Sequencer](https://github.com/r1cdev/touchosc-reaktor-toybox-tp) 
+
+
+#### Tools:
+- [![coding]( https://img.shields.io/badge/-</>%20%20-black)](#)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?logo=streamlit&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Codex](https://custom-icon-badges.demolab.com/badge/Codex-333333?logo=openai&logoColor=white)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
  
-[![ai]( https://img.shields.io/badge/-ai:%20%20-black)](#)
+- [![ai]( https://img.shields.io/badge/-<ai>%20%20-black)](#)
 [![OpenAI](https://custom-icon-badges.demolab.com/badge/OpenAI-444444?logo=openai&logoColor=white)](#)
 [![AssemblyAI](https://custom-icon-badges.demolab.com/badge/AssemblyAI-1155EE?logo=msazure&logoColor=blue)](#)
 
-[![cloud]( https://img.shields.io/badge/-cloud:%20%20-black)](#)
+- [![cloud]( https://img.shields.io/badge/-<cloud>%20%20-black)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 
-> Coding TouchOSC templates for virtual instruments 🎛️
-
+- [![creative]( https://img.shields.io/badge/-<🎛️>%20%20-black)](#)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 ![TouchOSC](https://img.shields.io/badge/-TouchOSC-gray?&link=https://hexler.net/)
 ![Reaktor](https://img.shields.io/badge/Reaktor-blue?link=https%3A%2F%2Fwww.native-instruments.com%2Fen%2Fproducts%2Fkomplete%2Fsynths%2Freaktor-6%2F)
