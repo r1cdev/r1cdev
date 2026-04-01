@@ -29,7 +29,9 @@
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 ![TouchOSC](https://img.shields.io/badge/-TouchOSC-gray?&link=https://hexler.net/)
 ![Reaktor](https://img.shields.io/badge/Reaktor-blue?link=https%3A%2F%2Fwww.native-instruments.com%2Fen%2Fproducts%2Fkomplete%2Fsynths%2Freaktor-6%2F)
-![Processing](https://img.shields.io/badge/-Processing-gray?&logo=Processing-Foundation&labelColor=blue&link=https://processing.org/)
+![Processing](https://img.shields.io/badge/-Processing-111111?&logo=Processing-Foundation&labelColor=blue&link=https://processing.org/)
+![p5.js](https://img.shields.io/badge/p5.js-662222?logo=p5.js&labelColor=960000&link=https://p5js.org)
+
 
 
 
