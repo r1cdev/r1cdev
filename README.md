@@ -2,7 +2,9 @@
 ## Hi, I'm Ricardo👋 
 
 #### AI Projects:
-- 🧑‍⚕️A is for Airway - AI enabled debriefing tool for airway ACRM training sessions  
+- 🧑‍⚕️A is for Airway - AI debriefing tool for airway ACRM training sessions
+- - POC 0.8 - *Grant: Stanford Center for Innovation Global Health - CMABC-25-91 / Audio only*
+- - POC 1.x - *Demo: Multimodal: Audio and Video*  
 
 
 #### Creative Projects:
