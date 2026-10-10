@@ -3,9 +3,9 @@
 
 #### AI Projects:
 - 🧑‍⚕️A is for Airway - AI debriefing tool for airway ACRM training sessions
-- - POC 0.8 - *Grant: Stanford Center for Innovation Global Health - CMABC-25-91 / Audio only*
-- - POC 1.x - *Demo: Multimodal: Audio and Video*
-- 🧑‍⚕️Asistente Médico - AI CDSS POC for medical training
+- - *Grant: Stanford Center for Innovation Global Health - CMABC-25-91 / Audio only*
+- - *On progress: Multimodal - Audio and Video*
+- 🧑‍⚕️Asistente Médico - CDSS Differential Diagnosis for medical training
 
 
 #### TouchOSC Projects:
