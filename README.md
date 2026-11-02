@@ -2,10 +2,11 @@
 ## Hi, I'm Ricardo👋 
 
 #### AI Projects:
-- 🧑‍⚕️A is for Airway - AI debriefing tool for airway ACRM training sessions
-- - *Grant: Stanford Center for Innovation Global Health - CMABC-25-91 / Audio only*
-- - *On progress: Multimodal - Audio and Video*
-- 🧑‍⚕️Asistente Médico - CDSS Differential Diagnosis for medical training
+- A is for Airway - AI debriefing tool for airway ACRM training sessions
+- - *Grant: Stanford Center for Innovation Global Health - CMABC-25-91*
+- - *On progress: Multimodal AI Debriefing*
+- Asistente Médico - CDSS Differential Diagnosis for medical training
+- EECC Vital Signs–Directed Therapy (VSDT) AI Assistant Tool
 
 
 #### TouchOSC Projects:
@@ -36,7 +37,6 @@
 ![TouchOSC](https://img.shields.io/badge/-TouchOSC-gray?&link=https://hexler.net/)
 ![Reaktor](https://img.shields.io/badge/Reaktor-blue?link=https%3A%2F%2Fwww.native-instruments.com%2Fen%2Fproducts%2Fkomplete%2Fsynths%2Freaktor-6%2F)
 ![Processing](https://img.shields.io/badge/-Processing-111111?&logo=Processing-Foundation&labelColor=blue&link=https://processing.org/)
-![p5.js](https://img.shields.io/badge/p5.js-662222?logo=p5.js&labelColor=960000&link=https://p5js.org)
 
 
 
