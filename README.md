@@ -5,7 +5,6 @@
 - A is for Airway - AI debriefing tool for airway ACRM training sessions
 - - *Grant: Stanford Center for Innovation Global Health - CMABC-25-91*
 - - *On progress: Multimodal AI Debriefing*
-- Asistente Médico - CDSS Differential Diagnosis for medical training
 - EECC Vital Signs–Directed Therapy (VSDT) AI Assistant Tool
 
 
